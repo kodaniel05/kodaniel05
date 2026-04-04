@@ -4,6 +4,11 @@ Purdue University student graduating **Summer 2026**, currently seeking full-tim
 
 I enjoy building projects at the intersection of software, machine learning, data, and real-world problem solving. My goal is to keep growing into an engineer who can build meaningful products, learn quickly, and contribute to ambitious teams.
 
+## Tech Snapshot
+**Languages:** Python, SQL, Java, TypeScript, JavaScript, R  
+**Frameworks/Tools:** React, Next.js, Prisma, PostgreSQL, Git, Tableau  
+**Interests:** Software Engineering, AI/ML, LLM systems, Agentic AI, Full-Stack Development
+
 ## What I'm focused on
 - Building full-stack projects with modern tools
 - Growing deeper in AI/ML, LLMs, and agentic systems
