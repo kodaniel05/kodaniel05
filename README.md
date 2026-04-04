@@ -43,8 +43,8 @@ Applied machine learning and forecasting work focused on prediction, analytics, 
 
 ## Links
 - **Portfolio:** [katieodaniel.com](https://katieodaniel.com/)
-- **LinkedIn:** add your LinkedIn link here
-- **Google Scholar:** add your Google Scholar link here
+- **LinkedIn:** (https://www.linkedin.com/in/katie-odaniel-100b12217/)
+- **Google Scholar:** https://scholar.google.com/citations?user=qtFAGIMAAAAJ&hl=en
 
 ## A little more about me
 I'm especially interested in joining ambitious teams where I can grow quickly, solve challenging problems, and build things that matter.
