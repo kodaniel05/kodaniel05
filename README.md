@@ -6,14 +6,16 @@ I enjoy building projects at the intersection of software, machine learning, dat
 
 ## Tech Snapshot
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![AI/ML](https://img.shields.io/badge/Focus-AI%2FML-purple?style=flat-square)
-![LLMs](https://img.shields.io/badge/Interest-LLMs-orange?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AI/ML](https://img.shields.io/badge/Focus-AI%2FML-8A2BE2?style=flat-square)
+![LLMs](https://img.shields.io/badge/Interest-LLMs-FF8C00?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Interest-Agentic%20AI-0A66C2?style=flat-square)
 
 ## What I'm focused on
+
 - Building full-stack projects with modern tools
 - Growing deeper in AI/ML, LLMs, and agentic systems
 - Turning ideas into polished, public-facing products
@@ -22,38 +24,42 @@ I enjoy building projects at the intersection of software, machine learning, dat
 ## Featured Projects
 
 ### Portfolio Website
-A personal website built to showcase my projects, writing, technical growth, and long-term goals.
+A personal website built to showcase my projects, writing, technical growth, and long-term goals.  
 
 **Tech:** React, TypeScript, Vite, CSS  
 **Focus:** Frontend engineering, design systems, personal branding
 
 ### Career Command Center
-A full-stack dashboard for tracking job applications, projects, learning progress, and AI workflows while exploring backend systems and practical AI integrations.
+A full-stack dashboard for tracking job applications, projects, learning progress, and AI workflows while exploring backend systems and practical AI integrations.  
 
 **Tech:** Next.js, TypeScript, Prisma, PostgreSQL, API integrations  
 **Focus:** Full-stack development, databases, product thinking, AI experimentation
 
 ### Machine Learning / Forecasting Projects
-Applied machine learning and forecasting work focused on prediction, analytics, and decision support.
+Applied machine learning and forecasting work focused on prediction, analytics, and decision support.  
 
 **Tech:** Python, pandas, scikit-learn, SQL  
 **Focus:** Forecasting, applied ML, analytics
 
 ## Technical Skills
+
 **Languages:** Python, SQL, Java, R, TypeScript, JavaScript  
 **Tools/Frameworks:** React, Next.js, Prisma, PostgreSQL, Git, Tableau, VS Code  
 **Interests:** Software Engineering, AI/ML, LLMs, Agentic AI, Full-Stack Development, Data Analytics
 
 ## Currently Learning
+
 - Backend development with databases and APIs
 - LLM systems, RAG, and agent workflows
 - Scalable full-stack application design
 - Interview-level data structures and algorithms
 
 ## Links
-- **Portfolio:** [katieodaniel.com](https://katieodaniel.com/)
-- **LinkedIn:** (https://www.linkedin.com/in/katie-odaniel-100b12217/)
-- **Google Scholar:** https://scholar.google.com/citations?user=qtFAGIMAAAAJ&hl=en
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-katieodaniel.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://katieodaniel.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Katie%20O'Daniel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katie-odaniel-100b12217/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=qtFAGIMAAAAJ&hl=en)
 
 ## A little more about me
+
 I'm especially interested in joining ambitious teams where I can grow quickly, solve challenging problems, and build things that matter.
