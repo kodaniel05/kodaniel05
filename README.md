@@ -5,9 +5,13 @@ Purdue University student graduating **Summer 2026**, currently seeking full-tim
 I enjoy building projects at the intersection of software, machine learning, data, and real-world problem solving. My goal is to keep growing into an engineer who can build meaningful products, learn quickly, and contribute to ambitious teams.
 
 ## Tech Snapshot
-**Languages:** Python, SQL, Java, TypeScript, JavaScript, R  
-**Frameworks/Tools:** React, Next.js, Prisma, PostgreSQL, Git, Tableau  
-**Interests:** Software Engineering, AI/ML, LLM systems, Agentic AI, Full-Stack Development
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![AI/ML](https://img.shields.io/badge/Focus-AI%2FML-purple?style=flat-square)
+![LLMs](https://img.shields.io/badge/Interest-LLMs-orange?style=flat-square)
 
 ## What I'm focused on
 - Building full-stack projects with modern tools
