@@ -1,58 +1,69 @@
 # Hi, I'm Katie O'Daniel
 
-Purdue University student graduating **Summer 2026**, currently seeking full-time opportunities in **Software Engineering, AI/ML, LLM, and Agentic AI**.
+Purdue University student graduating **Summer 2026**, currently seeking full-time opportunities in **Product Management, Technical Program Management, Product Operations, and technical project execution**.
 
-I enjoy building projects at the intersection of software, machine learning, data, and real-world problem solving. My goal is to keep growing into an engineer who can build meaningful products, learn quickly, and contribute to ambitious teams.
+My background combines **software development, AI/ML, analytics, and cross-functional coordination**. I enjoy taking ideas from ambiguity to structure — turning technical work into clear plans, user-focused products, and real execution. Long term, I want to grow into leadership by building strong technical judgment, product thinking, and the ability to help teams move ideas into reality.
 
-## Tech Snapshot
+## What I bring
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![AI/ML](https://img.shields.io/badge/Focus-AI%2FML-8A2BE2?style=flat-square)
-![LLMs](https://img.shields.io/badge/Interest-LLMs-FF8C00?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Interest-Agentic%20AI-0A66C2?style=flat-square)
+- **Technical fluency** across software, AI/ML, data, and full-stack tools
+- **Product thinking** around user needs, workflows, prioritization, and iteration
+- **Execution mindset** with experience supporting deliverables, milestones, and cross-functional work
+- Strong interest in roles that sit at the intersection of **technology, strategy, product, and coordination**
 
-## What I'm focused on
+## Focus Areas
 
-- Building full-stack projects with modern tools
-- Growing deeper in AI/ML, LLMs, and agentic systems
-- Turning ideas into polished, public-facing products
-- Strengthening backend, databases, APIs, and real-world engineering skills
+- Product Management
+- Technical Program Management
+- Product / Program Operations
+- Cross-functional technical execution
+- AI/ML and software-powered products
+- Building systems that are both useful and user-centered
 
 ## Featured Projects
 
-### Portfolio Website
-A personal website built to showcase my projects, writing, technical growth, and long-term goals.  
-
-**Tech:** React, TypeScript, Vite, CSS  
-**Focus:** Frontend engineering, design systems, personal branding
-
 ### Career Command Center
-A full-stack dashboard for tracking job applications, projects, learning progress, and AI workflows while exploring backend systems and practical AI integrations.  
+A full-stack dashboard designed to track job applications, projects, learning progress, and AI workflows.
 
+**Why it matters:** This project reflects how I think about product-building: identifying a real workflow problem, structuring the user experience, prioritizing features, and iterating toward a more useful system.  
 **Tech:** Next.js, TypeScript, Prisma, PostgreSQL, API integrations  
-**Focus:** Full-stack development, databases, product thinking, AI experimentation
+**Focus:** Product thinking, workflow design, full-stack execution, AI integration
+
+### Portfolio Website
+A personal website built to showcase my work, writing, technical growth, and long-term goals.
+
+**Why it matters:** More than a website, this project reflects ownership over branding, communication, user experience, and iterative improvement.  
+**Tech:** React, TypeScript, Vite, CSS  
+**Focus:** Product presentation, frontend execution, design decisions, personal branding
 
 ### Machine Learning / Forecasting Projects
-Applied machine learning and forecasting work focused on prediction, analytics, and decision support.  
+Applied machine learning and forecasting work focused on prediction, analytics, and decision support.
 
+**Why it matters:** These projects strengthened my ability to work with data, evaluate results, and think critically about how technical systems support better decisions.  
 **Tech:** Python, pandas, scikit-learn, SQL  
-**Focus:** Forecasting, applied ML, analytics
+**Focus:** Analytics, applied ML, problem-solving, decision support
 
-## Technical Skills
+### Terms & Conditions AI Analyzer
+A browser-based project built with a team to make dense legal language easier to understand.
 
-**Languages:** Python, SQL, Java, R, TypeScript, JavaScript  
-**Tools/Frameworks:** React, Next.js, Prisma, PostgreSQL, Git, Tableau, VS Code  
-**Interests:** Software Engineering, AI/ML, LLMs, Agentic AI, Full-Stack Development, Data Analytics
+**Why it matters:** This project pushed me to think about user pain points, accessibility, teamwork, and how technical solutions can improve real-world understanding.  
+**Focus:** Team collaboration, product thinking, user-centered design, AI-assisted analysis
+
+## Skills
+
+**Product / Program:** Product Thinking, Cross-Functional Collaboration, Roadmapping, Prioritization, Stakeholder Communication, Milestone Tracking, Agile, Kanban, Scrum, Documentation, Workflow Coordination
+
+**Technical:** Python, SQL, Java, JavaScript, TypeScript, React, Next.js, Prisma, PostgreSQL, Git, Tableau, VS Code
+
+**AI / Data:** Machine Learning, Forecasting, Analytics, LLMs, Prompting, Applied AI, Data-Driven Problem Solving
 
 ## Currently Learning
 
-- Backend development with databases and APIs
+- Product strategy and roadmap thinking
+- Technical Program Management skillsets
+- Backend systems, APIs, and scalable application design
 - LLM systems, RAG, and agent workflows
-- Scalable full-stack application design
-- Interview-level data structures and algorithms
+- Stronger execution frameworks for technical teams and products
 
 ## Links
 
@@ -62,4 +73,4 @@ Applied machine learning and forecasting work focused on prediction, analytics, 
 
 ## A little more about me
 
-I'm especially interested in joining ambitious teams where I can grow quickly, solve challenging problems, and build things that matter.
+I’m especially interested in joining ambitious teams where I can grow quickly, contribute to meaningful products, and help drive execution across technical work. I’m most drawn to opportunities where strong communication, structured thinking, technical fluency, and product judgment all matter.
