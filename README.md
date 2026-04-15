@@ -1,8 +1,8 @@
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kodaniel05&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 # Hi, I'm Katie O'Daniel
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kodaniel05&theme=tokyonight-duo&hide_border=true&border_radius=4.1&card_width=500&card_height=204)](https://git.io/streak-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kodaniel05&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 I’m a Purdue University student graduating **Summer 2026**, interested in **applied AI, technical research, product-minded systems building, and cross-functional technical execution**.
 
