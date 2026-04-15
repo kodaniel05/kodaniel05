@@ -1,6 +1,7 @@
 # Hi, I'm Katie O'Daniel
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kodaniel05&theme=tokyonight-duo&hide_border=true&border_radius=4.1&card_width=500&card_height=204)](https://git.io/streak-stats)
+[![Katie's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kodaniel05)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kodaniel05=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
