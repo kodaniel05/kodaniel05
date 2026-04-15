@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katie-odaniel-100b12217/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5E57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://katieodaniel.com)
+[![Personal Website](https://img.shields.io/badge/Portfolio-FF5E57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://katieodaniel.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=qtFAGIMAAAAJ&hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kodaniel05)
 
