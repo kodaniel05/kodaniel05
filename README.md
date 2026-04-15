@@ -2,6 +2,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kodaniel05&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=kodaniel05&theme=tokyonight-duo&hide_border=true&border_radius=4.1&card_width=500&card_height=204)](https://git.io/streak-stats)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=kodaniel05&show_icons=true&theme=tokyonight&hide_border=true&commits_year=2026)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kodaniel05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
