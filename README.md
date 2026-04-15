@@ -1,5 +1,5 @@
 # Hi, I'm Katie O'Daniel
-
+[![GitHub Streak](https://streak-stats.demolab.com/?kodaniel05&theme=dark)](https://git.io/streak-stats)
 I’m a Purdue University student graduating **Summer 2026**, interested in **applied AI, technical research, product-minded systems building, and cross-functional technical execution**.
 
 My background sits at the intersection of **machine learning, analytics, software, cybersecurity, and research communication**. I’m especially drawn to work that takes complex technical ideas and turns them into clear systems, useful tools, stronger decisions, or meaningful research outcomes.
