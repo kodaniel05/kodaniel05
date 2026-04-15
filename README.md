@@ -198,6 +198,10 @@ A team-built browser-based project designed to make dense legal language easier 
 
 I'm most motivated by ambitious environments where I can learn quickly, contribute meaningfully, and grow through hard technical work. I care about building useful things, asking better questions, and developing into someone who can bridge research, systems, and leadership over time.
 
+https://katieodaniel.com/beyond-work - Beyond my work 
+
+https://katieodaniel.com/writing - Some of my writing and thoughts
+
 ---
 
 <div align="center">
