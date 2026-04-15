@@ -2,9 +2,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kodaniel05&theme=tokyonight-duo&hide_border=true&border_radius=4.1&card_width=500&card_height=204)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodaniel05&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kodaniel05&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kodaniel05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 I’m a Purdue University student graduating **Summer 2026**, interested in **applied AI, technical research, product-minded systems building, and cross-functional technical execution**.
 
 My background sits at the intersection of **machine learning, analytics, software, cybersecurity, and research communication**. I’m especially drawn to work that takes complex technical ideas and turns them into clear systems, useful tools, stronger decisions, or meaningful research outcomes.
