@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Katie%20O'Daniel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Purdue%20University%20%7C%20CS%20%2B%20Data%20%7C%20Graduating%20Summer%202026&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Katie%20O'Daniel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Creating%20the%20future%20of%20tech%20%7C%20AI%20%E2%80%A2%20Data%20%E2%80%A2%20Full-Stack%20%7C%20SWE%20%E2%80%A2%20ML%20%E2%80%A2%20PM%20%E2%80%A2%20TPM%20%7C%20Purdue%202026&descAlignY=55&descSize=14" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Applied+AI+%7C+Technical+Research+%7C+Systems+Builder;Turning+complex+ideas+into+clear%2C+useful+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=60&lines=Ambitious+builder+at+the+intersection+of+AI%2C+data%2C+and+systems.;Boeing+%E2%80%A2+Lockheed+Martin+%E2%80%A2+NSIC+%E2%80%A2+U.S.+Space+Force+researcher.;Not+looking+for+a+lane.+Looking+to+build+something+real.)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katie-odaniel-100b12217/)
-[![Personal Website](https://img.shields.io/badge/Portfolio-FF5E57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://katieodaniel.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5E57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://katieodaniel.com)
+[![Writing](https://img.shields.io/badge/Writing-6C63FF?style=for-the-badge&logo=substack&logoColor=white)](https://katieodaniel.com/writing)
+[![Beyond Work](https://img.shields.io/badge/Beyond_Work-00BFA5?style=for-the-badge&logo=notion&logoColor=white)](https://katieodaniel.com/beyond-work)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=qtFAGIMAAAAJ&hl=en)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kodaniel05)
 
 </div>
 
@@ -17,11 +18,13 @@
 
 ## 👋 About Me
 
-I'm a Purdue University student graduating **Summer 2026**, interested in **applied AI, technical research, product-minded systems building, and cross-functional technical execution**.
+Ambitious builder interested in AI, data, and creating technology that pushes beyond what already exists. I thrive in fast-moving environments where the standard is high and the work actually matters.
 
-My background sits at the intersection of **machine learning, analytics, software, cybersecurity, and research communication**. I'm especially drawn to work that takes complex technical ideas and turns them into clear systems, useful tools, stronger decisions, or meaningful research outcomes.
+My background spans **applied machine learning, cybersecurity research, full-stack development, and technical project leadership** across defense-sponsored research with **Boeing, Lockheed Martin, the National Space Intelligence Center, and the U.S. Space Force**. Graduating Summer 2026.
 
-Long term, I want to grow into leadership by building strong technical judgment, research depth, and the ability to connect ambitious ideas to real-world execution.
+> *I am not looking for a lane. I am looking for the place where I can build something real, lead something meaningful, and grow into more than I was yesterday.*
+
+**Open to roles in:** Software Engineering · Machine Learning · Data Science · Data Analytics · Product Management · Technical Program Management · Consulting
 
 ---
 
@@ -31,7 +34,7 @@ Long term, I want to grow into leadership by building strong technical judgment,
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kodaniel05&theme=tokyonight-duo&hide_border=true&border_radius=4.1&card_width=500)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kodaniel05&bg_color=0d1117&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kodaniel05&bg_color=0d1117&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -62,6 +65,7 @@ Long term, I want to grow into leadership by building strong technical judgment,
 
 **💻 Software / Systems**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -94,12 +98,12 @@ Long term, I want to grow into leadership by building strong technical judgment,
 ## 🎯 Current Focus
 
 ```text
-🧠 Applied AI and machine learning
-🔍 Research-oriented technical problem solving
-🧩 Product-minded system and workflow design
-🛡️ AI safety, security, and evaluation-adjacent work
-🤝 Cross-functional execution across technical teams
-💡 Translating technical complexity into practical outcomes
+🧠  Applied AI and machine learning
+🔍  Research-oriented technical problem solving
+🧩  Product-minded system and workflow design
+🛡️  AI safety, security, and evaluation-adjacent work
+🤝  Cross-functional execution across technical teams
+💡  Translating technical complexity into practical outcomes
 ```
 
 ---
@@ -108,11 +112,12 @@ Long term, I want to grow into leadership by building strong technical judgment,
 
 | Strength | Description |
 |---|---|
-| 🔧 **Applied Technical Range** | Across AI/ML, analytics, software, and data systems |
-| 🔬 **Research Mindset** | Shaped by experimentation, problem framing, and iterative improvement |
-| 🎯 **Product Sense** | For identifying real workflow pain points and designing practical solutions |
-| ⚡ **Execution Strength** | Taking ideas from concept to usable systems, deliverables, and outcomes |
-| 💬 **Communication Skills** | Connecting technical work with broader goals, users, and stakeholders |
+| 🔧 **Applied Technical Range** | AI/ML, analytics, full-stack software, cybersecurity, and data systems |
+| 🔬 **Research Depth** | Defense-sponsored research across Boeing, Lockheed Martin, NSIC, and U.S. Space Force |
+| 🎯 **Product Sense** | Identifying real workflow pain points and building practical, usable solutions |
+| ⚡ **Execution Strength** | Taking ideas from concept to deployed systems, deliverables, and outcomes |
+| 💬 **Communication** | Connecting technical work with broader goals, stakeholders, and decision-makers |
+| 🚀 **Leadership Drive** | Stepping into TPM and cross-functional roles to move ambitious projects forward |
 
 ---
 
@@ -184,8 +189,6 @@ A team-built browser-based project designed to make dense legal language easier 
 
 ## 📚 Currently Learning
 
-> *"The best way to learn is to build."*
-
 - 🤖 AI systems, LLM workflows, and evaluation
 - 🔍 Research methods for stronger technical investigation
 - 🏗️ Backend systems, APIs, and scalable application design
@@ -194,13 +197,12 @@ A team-built browser-based project designed to make dense legal language easier 
 
 ---
 
-## 💭 A Little More About Me
+## 💭 Beyond the Work
 
 I'm most motivated by ambitious environments where I can learn quickly, contribute meaningfully, and grow through hard technical work. I care about building useful things, asking better questions, and developing into someone who can bridge research, systems, and leadership over time.
 
-https://katieodaniel.com/beyond-work - Beyond my work 
-
-https://katieodaniel.com/writing - Some of my writing and thoughts
+- 📝 [Read my writing and thoughts](https://katieodaniel.com/writing)
+- 🌱 [Life beyond the work](https://katieodaniel.com/beyond-work)
 
 ---
 
@@ -208,8 +210,9 @@ https://katieodaniel.com/writing - Some of my writing and thoughts
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-*Thanks for visiting! Feel free to reach out — I'm always open to interesting conversations and opportunities.*
+*Thanks for visiting — I'm always open to interesting conversations and opportunities.*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katie-odaniel-100b12217/)
+[![Email](https://img.shields.io/badge/Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://katieodaniel.com)
 
 </div>
