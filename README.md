@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Katie%20O'Daniel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Creating%20the%20future%20of%20tech%20%7C%20AI%20%E2%80%A2%20Data%20%E2%80%A2%20Full-Stack%20%7C%20SWE%20%E2%80%A2%20ML%20%E2%80%A2%20PM%20%E2%80%A2%20TPM%20%7C%20Purdue%202026&descAlignY=55&descSize=14" width="100%"/>
-
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Katie%20O'Daniel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Creating%20the%20future%20of%20tech%20%7C%20AI%20%E2%80%A2%20Data%20%E2%80%A2%20Full-Stack%20%7C%20SWE%20%E2%80%A2%20ML%20%E2%80%A2%20PM%20%E2%80%A2%20TPM%20%7C%20Purdue%202026&descAlignY=55&descSize=14" width="100%"/>
+](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Katie%20O'Daniel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Creating%20the%20future%20of%20AI%20%7C%20AI%2FML%20%E2%80%A2%20Cyber%20%E2%80%A2%20Data%20%7C%20Purdue%202026&descAlignY=55&descSize=14)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=60&lines=Ambitious+builder+at+the+intersection+of+AI/ML%2C+data%2C+and+systems.;Boeing+%E2%80%A2+Lockheed+Martin+%E2%80%A2+NSIC+%E2%80%A2+U.S.+Space+Force+researcher.;Not+looking+for+a+lane.+Looking+to+build+something+real.)](https://git.io/typing-svg)
 
 <br/>
