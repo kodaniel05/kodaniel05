@@ -8,8 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katie-odaniel-100b12217/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5E57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://katieodaniel.com)
-[![Writing](https://img.shields.io/badge/Writing-6C63FF?style=for-the-badge&logo=substack&logoColor=white)](https://katieodaniel.com/writing)
-[![Beyond Work](https://img.shields.io/badge/Beyond_Work-00BFA5?style=for-the-badge&logo=notion&logoColor=white)](https://katieodaniel.com/beyond-work)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=qtFAGIMAAAAJ&hl=en)
 
 </div>
