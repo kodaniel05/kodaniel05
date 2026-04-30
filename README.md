@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a Data Analytics student at Purdue (graduating Summer 2026) who builds the layer between raw AI capability and real, usable products — intelligent dashboards, LLM-powered workflows, and increasingly, agentic systems. My work is driven by a simple question: once the model exists, what does it actually take to make it useful?
+I'm a Data Analytics student at Purdue (graduating Summer 2026) who builds the layer between raw AI capability and real, usable products like intelligent dashboards, LLM-powered workflows, and increasingly, agentic systems. My work is driven by a simple question: once the model exists, what does it actually take to make it useful?
 
 That question has pulled me across applied ML, cybersecurity research, and full-stack development — much of it in high-stakes settings alongside Boeing, Lockheed Martin, the National Space Intelligence Center, and the U.S. Space Force. I bring both the research depth to understand what AI can do and the engineering instinct to build something with it.
 
@@ -119,7 +119,7 @@ Four years of sponsored technical research through Purdue's Data Mine — each p
 
 **Assured Self-Recovery of Modular Spacecraft from Cyber Threat**
 
-*TA · Technical PM*
+*TA · Scrum Master*
 
 </td>
 <td align="center" width="25%">
@@ -207,7 +207,7 @@ SVM · Random Forest · Physics-informed ML
 
 ## What I'm Building Toward
 
-I'm genuinely interested in the parts of AI that most people skip past — not just calling a model, but designing the system around it. That means thinking about how agents coordinate, how LLM outputs become structured and reliable enough to act on, how dashboards make complex AI behavior legible to a real user, and how you build something that degrades gracefully when the model isn't available.
+I'm genuinely interested in the parts of AI that most people skip past, not just calling a model, but designing the system around it. That means thinking about how agents coordinate, how LLM outputs become structured and reliable enough to act on, how dashboards make complex AI behavior legible to a real user, and how you build something that degrades gracefully when the model isn't available.
 
 Right now I'm exploring:
 
@@ -216,7 +216,7 @@ Right now I'm exploring:
 - **Dashboard design as a discipline** — what it takes to make AI-driven data actually navigable and trustworthy
 - **Applied research methods** — reading papers seriously, running experiments, connecting findings to things I'm building
 
-Cyber is still something I find genuinely fascinating — the research background isn't going away. But the through line in everything I'm building right now is: take something technically hard, and make it actually usable.
+Cyber is still something I find genuinely fascinating, the research background isn't going away. But the through line in everything I'm building right now is: take something technically hard, and make it actually usable.
 
 ---
 
