@@ -1,8 +1,8 @@
 <div align="center">
 
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Katie%20O'Daniel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Creating%20the%20future%20of%20tech%20%7C%20AI%20%E2%80%A2%20Data%20%E2%80%A2%20Full-Stack%20%7C%20SWE%20%E2%80%A2%20ML%20%E2%80%A2%20PM%20%E2%80%A2%20TPM%20%7C%20Purdue%202026&descAlignY=55&descSize=14" width="100%"/>
-](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Katie%20O'Daniel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Creating%20the%20future%20of%20AI%20%7C%20AI%2FML%20%E2%80%A2%20Cyber%20%E2%80%A2%20Data%20%7C%20Purdue%202026&descAlignY=55&descSize=14)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=60&lines=Ambitious+builder+at+the+intersection+of+AI/ML%2C+data%2C+and+systems.;Boeing+%E2%80%A2+Lockheed+Martin+%E2%80%A2+NSIC+%E2%80%A2+U.S.+Space+Force+researcher.;Not+looking+for+a+lane.+Looking+to+build+something+real.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Katie%20O'Daniel&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Purdue%20Data%20Analytics%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack%20%C2%B7%20Defense%20Research%20%C2%B7%20Class%20of%20%2726&descAlignY=58&descSize=13" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=50&lines=Building+systems+that+think%2C+not+just+tools+that+run.;Boeing+%C2%B7+Lockheed+Martin+%C2%B7+NSIC+%C2%B7+U.S.+Space+Force.+Purdue+%2726.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,19 +14,96 @@
 
 ---
 
-## 👋 About Me
+## About
 
-Ambitious builder interested in AI, data, and creating technology that pushes beyond what already exists. I thrive in fast-moving environments where the standard is high and the work actually matters.
+I'm a Data Analytics student at Purdue (graduating Summer 2026) who builds things at the intersection of AI, data systems, and full-stack software. My background spans applied ML, cybersecurity research, and technical project leadership — most of it done alongside real sponsors: Boeing, Lockheed Martin, the National Space Intelligence Center, and the U.S. Space Force.
 
-My background spans **applied machine learning, cybersecurity research, full-stack development, and technical project leadership** across defense-sponsored research with **Boeing, Lockheed Martin, the National Space Intelligence Center, and the U.S. Space Force**. Graduating Summer 2026.
+I care less about having a defined lane and more about building systems that are actually useful, rigorously built, and hard to ignore. My work tends to sit where research meets execution — where someone has to figure out not just what to build, but how to make it real.
 
-> *I am not looking for a lane. I am looking for the place where I can build something real, lead something meaningful, and grow into more than I was yesterday.*
-
-**Open to roles in:** Software Engineering · Machine Learning · Data Science · Data Analytics · Product Management · Technical Program Management · Consulting
+**Open to:** Data Science · ML Engineering · Software Engineering · Research-adjacent roles
 
 ---
 
-## 📊 GitHub Activity
+## Projects
+
+These are private applications documented publicly as portfolio showcases. Source code is not included — each repo covers the product, architecture, and engineering decisions in full.
+
+<br/>
+
+**[Research Intelligence Platform](https://github.com/kodaniel05/research-intelligence-platform-showcase)**
+`Next.js · TypeScript · OpenAI · PostgreSQL`
+
+A single-user intelligence workspace that turns fragmented signals — academic papers, GitHub activity, news, Hacker News — into a ranked daily briefing. Built a full research loop: detect signals → analyze papers → map concept relationships → score research directions → save for follow-up. Includes automated daily email delivery with duplicate-send protection.
+
+→ [View showcase](https://github.com/kodaniel05/research-intelligence-platform-showcase)
+
+<br/>
+
+**[Command Center](https://github.com/kodaniel05/command-center-showcase)**
+`Next.js · TypeScript · Node.js · Tailwind`
+
+A local developer operations hub for managing multiple running projects from one interface. Handles project registration, process lifecycle (start/stop/restart), port health checks, screenshot capture, activity logging, and system telemetry. Also includes a Blueprint Studio for turning rough ideas into structured technical plans before a single line of code is written.
+
+→ [View showcase](https://github.com/kodaniel05/command-center-showcase)
+
+<br/>
+
+**[Career Command Center](https://github.com/kodaniel05/career-command-center-showcase)**
+`Next.js · TypeScript · Prisma · PostgreSQL · OpenAI`
+
+A full job search operating system — not a tracker, an actual workflow. AI daily briefing, application pipeline, outreach tracking, interview prep scheduling, market signal digest, and portfolio project readiness, all in one dashboard built around daily execution. Designed because spreadsheets and browser tabs were the alternative.
+
+→ [View showcase](https://github.com/kodaniel05/career-command-center-showcase)
+
+<br/>
+
+**[Project Compiler](https://github.com/kodaniel05/Project_Dashboard-showcase)**
+`Next.js · TypeScript · Prisma · PostgreSQL · OpenAI`
+
+A guided planning system that takes a rough project idea and produces a structured execution workspace. AI-assisted clarification, scope framing, generated planning documents (brief, requirements, user stories, risk assessment, KPIs), milestone tracking, and a live readiness dashboard. Built to solve the problem of projects that stall because planning never became real.
+
+→ [View showcase](https://github.com/kodaniel05/Project_Dashboard-showcase)
+
+---
+
+## Research
+
+**Cyber Attacks on Avionics Networks in Digital Twin Environment: Detection and Defense**
+*Published · AIAA SciTech Forum, 2024*
+
+Co-authored undergraduate research with Boeing on designing a high-fidelity digital twin of commercial avionics systems to simulate and defend against real-world cyber attacks. Built Python-based emulation of MIL-STD-1553 bus communications across three ARINC 811 network domains, developed novel attack scripts and detection methods (timestamp-driven spoof detection for ADS-B, MACs for ACARS), and presented findings at a national aerospace conference.
+
+→ [Read on Google Scholar](https://scholar.google.com/citations?user=qtFAGIMAAAAJ&hl=en)
+
+---
+
+## Defense Research Experience
+
+Four years of sponsored technical research through Purdue's Data Mine program:
+
+| Sponsor | Project | Role |
+|---|---|---|
+| U.S. Space Force / NSIC | Assured Self-Recovery of Modular Spacecraft from Cyber Threat | TA / Technical PM |
+| National Space Intelligence Center | Project Shoelace — GPS Signal Disruption Detection (SVM, Random Forest, physics-informed ML) | TA / Scrum Master |
+| Lockheed Martin | Anomaly Detection in System Logs using GANs + Knowledge Graph Embeddings | TA / Scrum Master |
+| Boeing | Cyber Attack Simulation and Defense in Avionics Digital Twin | Undergraduate Researcher |
+
+---
+
+## Skills
+
+**AI / Data**
+`Python` `PyTorch` `TensorFlow` `scikit-learn` `pandas` `NumPy` `OpenCV` `Streamlit` `Machine Learning` `LLM Applications` `Forecasting` `Model Evaluation`
+
+**Software / Full-Stack**
+`JavaScript` `TypeScript` `React` `Next.js` `Flask` `PostgreSQL` `Prisma` `Docker` `GitHub Actions` `SQL` `Java` `Git`
+
+**Research / Execution**
+`Technical Writing` `Cross-Functional Collaboration` `Stakeholder Communication` `Scrum / Agile` `Experimentation` `Documentation`
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
@@ -38,179 +115,13 @@ My background spans **applied machine learning, cybersecurity research, full-sta
 
 ---
 
-## 🛠️ Technical Skills
-
-**🤖 AI / Data**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logoColor=white)
-![LLM Applications](https://img.shields.io/badge/LLM_Applications-7B1FA2?style=flat-square&logoColor=white)
-![Applied AI](https://img.shields.io/badge/Applied_AI-C62828?style=flat-square&logoColor=white)
-![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-F57F17?style=flat-square&logoColor=white)
-![Forecasting](https://img.shields.io/badge/Forecasting-0D47A1?style=flat-square&logoColor=white)
-![Analytics](https://img.shields.io/badge/Analytics-00897B?style=flat-square&logoColor=white)
-![Data-Driven Problem Solving](https://img.shields.io/badge/Data--Driven_Problem_Solving-1565C0?style=flat-square&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-<br/>
-
-**💻 Software / Systems**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-<br/>
-
-**🔬 Research / Execution**
-
-![Experimentation](https://img.shields.io/badge/Experimentation-6A1B9A?style=flat-square&logoColor=white)
-![Technical Writing](https://img.shields.io/badge/Technical_Writing-37474F?style=flat-square&logoColor=white)
-![Documentation](https://img.shields.io/badge/Documentation-1B5E20?style=flat-square&logoColor=white)
-![Cross-Functional Collaboration](https://img.shields.io/badge/Cross--Functional_Collaboration-BF360C?style=flat-square&logoColor=white)
-![Stakeholder Communication](https://img.shields.io/badge/Stakeholder_Communication-0277BD?style=flat-square&logoColor=white)
-![Workflow Design](https://img.shields.io/badge/Workflow_Design-558B2F?style=flat-square&logoColor=white)
-![Iterative Problem Solving](https://img.shields.io/badge/Iterative_Problem_Solving-4527A0?style=flat-square&logoColor=white)
-![Technical Project Execution](https://img.shields.io/badge/Technical_Project_Execution-00695C?style=flat-square&logoColor=white)
-
----
-
-## 🎯 Current Focus
-
-```text
-🧠  Applied AI and machine learning
-🔍  Research-oriented technical problem solving
-🧩  Product-minded system and workflow design
-🛡️  AI safety, security, and evaluation-adjacent work
-🤝  Cross-functional execution across technical teams
-💡  Translating technical complexity into practical outcomes
-```
-
----
-
-## ✨ What I Bring
-
-| Strength | Description |
-|---|---|
-| 🔧 **Applied Technical Range** | AI/ML, analytics, full-stack software, cybersecurity, and data systems |
-| 🔬 **Research Depth** | Defense-sponsored research across Boeing, Lockheed Martin, NSIC, and U.S. Space Force |
-| 🎯 **Product Sense** | Identifying real workflow pain points and building practical, usable solutions |
-| ⚡ **Execution Strength** | Taking ideas from concept to deployed systems, deliverables, and outcomes |
-| 💬 **Communication** | Connecting technical work with broader goals, stakeholders, and decision-makers |
-| 🚀 **Leadership Drive** | Stepping into TPM and cross-functional roles to move ambitious projects forward |
-
----
-
-## 🚀 Selected Projects
-
-<details>
-<summary><b>🗂️ Career Command Center</b> — Full-stack job tracking dashboard</summary>
-<br/>
-
-A full-stack dashboard built to track job applications, projects, learning progress, and AI-assisted workflows.
-
-**Why it matters:** This project reflects how I approach systems: identify a real workflow problem, structure the experience, prioritize what matters, and iteratively improve the solution.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-**Focus:** Systems thinking · Workflow design · Product judgment · Full-stack execution
-
-</details>
-
-<details>
-<summary><b>🌐 Portfolio Website</b> — Personal site built from scratch</summary>
-<br/>
-
-A personal website designed and built to showcase my work, writing, technical growth, and long-term goals.
-
-**Why it matters:** This project demonstrates ownership across both technical and communication layers: frontend implementation, design decisions, narrative framing, and iterative refinement.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Focus:** Frontend engineering · UX thinking · Technical storytelling
-
-</details>
-
-<details>
-<summary><b>📈 Machine Learning & Forecasting Projects</b> — Applied ML in real-world settings</summary>
-<br/>
-
-Applied machine learning work focused on prediction, analytics, and decision support in real-world settings.
-
-**Why it matters:** These projects strengthened my ability to work with messy data, evaluate model outputs, and think critically about how technical systems support decision-making.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Focus:** Applied ML · Forecasting · Experimentation · Analytical problem solving
-
-</details>
-
-<details>
-<summary><b>📜 Terms & Conditions AI Analyzer</b> — Making legal language accessible</summary>
-<br/>
-
-A team-built browser-based project designed to make dense legal language easier to understand.
-
-**Why it matters:** This project pushed me to think about accessibility, user pain points, and how technical systems can turn complex information into something more useful and usable.
-
-**Focus:** Human-centered design · AI-assisted analysis · Collaboration · Product-oriented thinking
-
-</details>
-
----
-
-## 📚 Currently Learning
-
-- 🤖 AI systems, LLM workflows, and evaluation
-- 🔍 Research methods for stronger technical investigation
-- 🏗️ Backend systems, APIs, and scalable application design
-- 🤝 Better frameworks for technical execution across teams
-- 🛡️ Deeper understanding of AI safety, security, and real-world impact
-
----
-
-## 💭 Beyond the Work
-
-I'm most motivated by ambitious environments where I can learn quickly, contribute meaningfully, and grow through hard technical work. I care about building useful things, asking better questions, and developing into someone who can bridge research, systems, and leadership over time.
-
-- 📝 [Read my writing and thoughts](https://katieodaniel.com/writing)
-- 🌱 [Life beyond the work](https://katieodaniel.com/beyond-work)
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-*Thanks for visiting — I'm always open to interesting conversations and opportunities.*
+*Always open to interesting conversations and the right opportunities.*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katie-odaniel-100b12217/)
-[![Email](https://img.shields.io/badge/Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://katieodaniel.com)
+[![Portfolio](https://img.shields.io/badge/See_My_Work-FF5E57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://katieodaniel.com)
 
 </div>
