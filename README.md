@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Katie%20O'Daniel&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Purdue%20Data%20Analytics%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack%20%C2%B7%20Defense%20Research%20%C2%B7%20Class%20of%20%2726&descAlignY=58&descSize=13" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=50&lines=Building+systems+that+think%2C+not+just+tools+that+run.;Boeing+%C2%B7+Lockheed+Martin+%C2%B7+NSIC+%C2%B7+U.S.+Space+Force.+Purdue+%2726.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=50&lines=Building+the+layer+between+raw+AI+and+real%2C+usable+products.;LLMs+%C2%B7+Agentic+Systems+%C2%B7+Dashboards+%C2%B7+Applied+AI.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,15 +16,17 @@
 
 ## About
 
-I'm a Data Analytics student at Purdue (graduating Summer 2026) who builds things at the intersection of AI, data systems, and full-stack software. My background spans applied ML, cybersecurity research, and technical project leadership — most of it done alongside real sponsors: Boeing, Lockheed Martin, the National Space Intelligence Center, and the U.S. Space Force.
+I'm a Data Analytics student at Purdue (graduating Summer 2026) who builds the layer between raw AI capability and real, usable products — intelligent dashboards, LLM-powered workflows, and increasingly, agentic systems. My work is driven by a simple question: once the model exists, what does it actually take to make it useful?
 
-I care less about having a defined lane and more about building systems that are actually useful, rigorously built, and hard to ignore. My work tends to sit where research meets execution — where someone has to figure out not just what to build, but how to make it real.
+That question has pulled me across applied ML, cybersecurity research, and full-stack development — much of it in high-stakes settings alongside Boeing, Lockheed Martin, the National Space Intelligence Center, and the U.S. Space Force. I bring both the research depth to understand what AI can do and the engineering instinct to build something with it.
 
-**Open to:** `Data Science` `ML Engineering` `Software Engineering` `Research-adjacent roles`
+**Open to:** `Data Science` `AI/ML Engineering` `Software Engineering` `Research-adjacent roles`
 
 ---
 
 ## Projects
+
+> All four projects are private applications with full public showcase documentation — architecture, engineering decisions, and product walkthroughs without exposing source code.
 
 <table>
 <tr>
@@ -37,7 +39,7 @@ I care less about having a defined lane and more about building systems that are
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-A single-user intelligence workspace that aggregates academic papers, GitHub activity, news, and Hacker News into a **ranked daily briefing**. Built around a full research loop — detect signals, analyze papers, map concept relationships, score research directions, save findings. Includes automated daily email delivery with duplicate-send protection.
+An LLM-powered intelligence workspace that aggregates academic papers, GitHub activity, news, and Hacker News into a **ranked daily briefing**. Built a full research loop end-to-end — signal detection, paper analysis, concept graph mapping, direction scoring — with automated email delivery and schema-constrained model output for reliable structured results.
 
 </td>
 <td width="50%" valign="top">
@@ -49,7 +51,7 @@ A single-user intelligence workspace that aggregates academic papers, GitHub act
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-A local developer operations hub for managing multiple running projects from one interface. Handles **process lifecycle, port health checks, screenshot capture, and activity logging**. Also includes a Blueprint Studio for turning rough ideas into structured technical plans before writing a line of code.
+A local developer operations dashboard for managing multiple running projects from one interface — **process lifecycle, port health checks, screenshot capture, activity logging, and system telemetry**. Also includes a Blueprint Studio that uses AI to turn a rough idea into a structured technical plan before a single line of code is written.
 
 </td>
 </tr>
@@ -63,7 +65,7 @@ A local developer operations hub for managing multiple running projects from one
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-A full **job search operating system** — not a tracker, an actual workflow. AI daily briefing, application pipeline, outreach tracking, interview prep scheduling, market signal digest, and portfolio readiness in one dashboard designed around daily execution. Built because spreadsheets and browser tabs were the alternative.
+A full **job search operating system** built around daily AI-driven execution — briefing generation, application pipeline, outreach tracking, interview prep scheduling, market signal digest, and portfolio readiness in one dashboard. The AI doesn't just summarize; it surfaces what deserves attention today based on current search context.
 
 </td>
 <td width="50%" valign="top">
@@ -75,7 +77,7 @@ A full **job search operating system** — not a tracker, an actual workflow. AI
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-A guided planning system that turns a rough idea into a **structured execution workspace** — AI-assisted clarification, scope framing, auto-generated planning docs (requirements, user stories, risk assessment, KPIs), milestone tracking, and a live readiness dashboard. Built to solve the problem of projects that stall because planning never became real.
+An **AI-guided planning system** that takes a rough project idea and produces a full structured execution workspace — clarification, scope framing, auto-generated docs (requirements, user stories, risk assessment, KPIs), milestone tracking, and a live readiness dashboard. AI and deterministic generation are kept deliberately separate so outputs stay predictable even when models aren't available.
 
 </td>
 </tr>
@@ -95,7 +97,7 @@ A guided planning system that turns a rough idea into a **structured execution w
 ![AIAA](https://img.shields.io/badge/Published-AIAA%20SciTech%202024-C8102E?style=flat-square&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Co-authored undergraduate research on designing a high-fidelity digital twin of commercial avionics systems to simulate and defend against real-world cyber attacks. Built Python-based emulation of MIL-STD-1553 bus communications across three ARINC 811 network domains, developed novel attack scripts and detection methods — timestamp-driven spoof detection for ADS-B, MACs for ACARS — and presented at a national aerospace conference.
+Co-authored undergraduate research on building a high-fidelity digital twin of commercial avionics systems to simulate and defend against real-world cyber attacks. Built Python-based emulation of MIL-STD-1553 bus communications across three ARINC 811 network domains, developed novel detection methods (timestamp-driven spoof detection for ADS-B, MACs for ACARS), and presented findings at a national aerospace conference. Peer-reviewed, published, and done as an undergrad.
 
 [![Read on Google Scholar](https://img.shields.io/badge/Read%20on%20Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=qtFAGIMAAAAJ&hl=en)
 
@@ -107,7 +109,7 @@ Co-authored undergraduate research on designing a high-fidelity digital twin of 
 
 ## Defense Research
 
-Four years of sponsored technical research through Purdue's Data Mine program.
+Four years of sponsored technical research through Purdue's Data Mine — each project required translating ambiguous sponsor objectives into real deliverables under real constraints.
 
 <table>
 <tr>
@@ -159,12 +161,13 @@ SVM · Random Forest · Physics-informed ML
 <tr>
 <td valign="top" width="33%">
 
-**AI / Data**
+**AI / LLM / Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
@@ -199,6 +202,21 @@ SVM · Random Forest · Physics-informed ML
 </td>
 </tr>
 </table>
+
+---
+
+## What I'm Building Toward
+
+I'm genuinely interested in the parts of AI that most people skip past — not just calling a model, but designing the system around it. That means thinking about how agents coordinate, how LLM outputs become structured and reliable enough to act on, how dashboards make complex AI behavior legible to a real user, and how you build something that degrades gracefully when the model isn't available.
+
+Right now I'm exploring:
+
+- **Agentic systems** — multi-step reasoning, tool use, orchestration patterns, and where agents actually break down
+- **LLM output reliability** — structured generation, schema validation, prompt design for consistent behavior
+- **Dashboard design as a discipline** — what it takes to make AI-driven data actually navigable and trustworthy
+- **Applied research methods** — reading papers seriously, running experiments, connecting findings to things I'm building
+
+Cyber is still something I find genuinely fascinating — the research background isn't going away. But the through line in everything I'm building right now is: take something technically hard, and make it actually usable.
 
 ---
 
