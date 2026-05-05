@@ -20,7 +20,7 @@ I'm a Data Analytics student at Purdue (graduating Summer 2026) who builds the l
 
 That question has pulled me across applied ML, cybersecurity research, and full-stack development — much of it in high-stakes settings alongside Boeing, Lockheed Martin, the National Space Intelligence Center, and the U.S. Space Force. I bring both the research depth to understand what AI can do and the engineering instinct to build something with it.
 
-**Open to:** `Data Science` `AI/ML Engineering` `Software Engineering` `Research-adjacent roles`
+**Open to:** `Data Science` `AI/ML Engineering` `Software Engineering` `Research-adjacent roles` '
 
 ---
 
@@ -51,7 +51,7 @@ An LLM-powered intelligence workspace that aggregates academic papers, GitHub ac
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-A local developer operations dashboard for managing multiple running projects from one interface — **process lifecycle, port health checks, screenshot capture, activity logging, and system telemetry**. Also includes a Blueprint Studio that uses AI to turn a rough idea into a structured technical plan before a single line of code is written.
+A developer operations dashboard for managing multiple running projects from one interface — **process lifecycle, port health checks, screenshot capture, activity logging, and system telemetry**. Also includes a Blueprint Studio that uses AI to turn a rough idea into a structured technical plan before a single line of code is written.
 
 </td>
 </tr>
