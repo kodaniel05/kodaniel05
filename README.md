@@ -24,9 +24,9 @@ That question has pulled me across applied ML, cybersecurity research, and full-
 
 ---
 
-## Projects
+## Dashboards <3
 
-> All four projects are private applications with full public showcase documentation — architecture, engineering decisions, and product walkthroughs without exposing source code.
+> I love Dashboards
 
 <table>
 <tr>
