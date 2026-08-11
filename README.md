@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a Data Analytics student at Purdue (graduating Summer 2026) who builds the layer between raw AI capability and real, usable products like intelligent dashboards, LLM-powered workflows, and increasingly, agentic systems. My work is driven by a simple question: once the model exists, what does it actually take to make it useful?
+I'm a Data Analytics student at Purdue (graduating 2026) who builds the layer between raw AI capability and real, usable products like intelligent dashboards, LLM-powered workflows, and increasingly, agentic systems. My work is driven by a simple question: once the model exists, what does it actually take to make it useful?
 
 That question has pulled me across applied ML, cybersecurity research, and full-stack development — much of it in high-stakes settings alongside Boeing, Lockheed Martin, the National Space Intelligence Center, and the U.S. Space Force. I bring both the research depth to understand what AI can do and the engineering instinct to build something with it.
 
