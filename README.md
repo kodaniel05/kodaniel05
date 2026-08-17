@@ -26,7 +26,6 @@ That question has pulled me across applied ML, cybersecurity research, and full-
 
 ## Dashboards <3
 
-> I love Dashboards
 
 <table>
 <tr>
